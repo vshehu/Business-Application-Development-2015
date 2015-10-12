@@ -1,0 +1,9 @@
+c:\users\visar\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+c:\users\visar\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+c:\users\visar\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.xml
+c:\users\visar\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.Form1.resources
+c:\users\visar\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.Resources.resources
+c:\users\visar\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.vbproj.GenerateResource.Cache
+c:\users\visar\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.exe
+c:\users\visar\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.xml
+c:\users\visar\documents\visual studio 2013\Projects\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.pdb
