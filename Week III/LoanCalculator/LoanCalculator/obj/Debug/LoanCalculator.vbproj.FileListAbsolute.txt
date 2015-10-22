@@ -1,0 +1,9 @@
+c:\users\visar\documents\visual studio 2013\Projects\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.exe
+c:\users\visar\documents\visual studio 2013\Projects\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.pdb
+c:\users\visar\documents\visual studio 2013\Projects\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.xml
+c:\users\visar\documents\visual studio 2013\Projects\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.Form1.resources
+c:\users\visar\documents\visual studio 2013\Projects\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.Resources.resources
+c:\users\visar\documents\visual studio 2013\Projects\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.vbproj.GenerateResource.Cache
+c:\users\visar\documents\visual studio 2013\Projects\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.exe
+c:\users\visar\documents\visual studio 2013\Projects\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.xml
+c:\users\visar\documents\visual studio 2013\Projects\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.pdb
