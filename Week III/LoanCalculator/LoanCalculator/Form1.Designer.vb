@@ -73,7 +73,7 @@ Partial Class Form1
         Me.btnExit.Location = New System.Drawing.Point(334, 134)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(113, 23)
-        Me.btnExit.TabIndex = 22
+        Me.btnExit.TabIndex = 6
         Me.btnExit.Text = "E&xit"
         Me.btnExit.UseVisualStyleBackColor = True
         '
@@ -82,7 +82,7 @@ Partial Class Form1
         Me.btnClear.Location = New System.Drawing.Point(334, 106)
         Me.btnClear.Name = "btnClear"
         Me.btnClear.Size = New System.Drawing.Size(113, 23)
-        Me.btnClear.TabIndex = 21
+        Me.btnClear.TabIndex = 5
         Me.btnClear.Text = "Cl&ear "
         Me.btnClear.UseVisualStyleBackColor = True
         '
@@ -91,7 +91,7 @@ Partial Class Form1
         Me.btnCalculate.Location = New System.Drawing.Point(334, 80)
         Me.btnCalculate.Name = "btnCalculate"
         Me.btnCalculate.Size = New System.Drawing.Size(113, 23)
-        Me.btnCalculate.TabIndex = 20
+        Me.btnCalculate.TabIndex = 4
         Me.btnCalculate.Text = "&Calculate"
         Me.btnCalculate.UseVisualStyleBackColor = True
         '
@@ -109,7 +109,7 @@ Partial Class Form1
         Me.txtInterestRate.Location = New System.Drawing.Point(110, 108)
         Me.txtInterestRate.Name = "txtInterestRate"
         Me.txtInterestRate.Size = New System.Drawing.Size(121, 20)
-        Me.txtInterestRate.TabIndex = 24
+        Me.txtInterestRate.TabIndex = 1
         '
         'cmbYears
         '
@@ -117,7 +117,7 @@ Partial Class Form1
         Me.cmbYears.Location = New System.Drawing.Point(110, 135)
         Me.cmbYears.Name = "cmbYears"
         Me.cmbYears.Size = New System.Drawing.Size(74, 21)
-        Me.cmbYears.TabIndex = 26
+        Me.cmbYears.TabIndex = 2
         '
         'Label3
         '
@@ -134,7 +134,7 @@ Partial Class Form1
         Me.dtpStartDate.Location = New System.Drawing.Point(110, 163)
         Me.dtpStartDate.Name = "dtpStartDate"
         Me.dtpStartDate.Size = New System.Drawing.Size(121, 20)
-        Me.dtpStartDate.TabIndex = 28
+        Me.dtpStartDate.TabIndex = 3
         '
         'Label4
         '
@@ -152,6 +152,7 @@ Partial Class Form1
         Me.lstMonthlyPayments.Name = "lstMonthlyPayments"
         Me.lstMonthlyPayments.Size = New System.Drawing.Size(337, 160)
         Me.lstMonthlyPayments.TabIndex = 30
+        Me.lstMonthlyPayments.TabStop = False
         '
         'Label5
         '
