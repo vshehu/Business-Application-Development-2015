@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SimplePOS
+</name>
+</assembly>
+<members>
+<member name="M:Simple_POS.Form1.SearchProductByName(System.String)">
+	<summary>
+ This function will search the array for a product based on 
+ part of the product name
+ </summary>
+	<param name="productName">The name of the product 
+ being searched
+ </param>
+	<returns>The indexes of all products found or an 
+ empty array if nothing is found</returns>
+	<remarks></remarks>
+</member><member name="M:Simple_POS.Form1.SearchProductById(System.String)">
+	<summary>
+ This function will search the array for a product based on 
+ the id of the product
+ </summary>
+	<param name="productId">The id of the product</param>
+	<returns>The index of the found element on the product 
+ array or -1 if nothing is found</returns>
+	<remarks></remarks>
+</member><member name="P:Simple_POS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Simple_POS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Simple_POS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

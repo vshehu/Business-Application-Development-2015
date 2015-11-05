@@ -1,0 +1,10 @@
+c:\users\visar\documents\visual studio 2013\Projects\Simple POS\Simple POS\bin\Debug\Simple POS.exe.config
+c:\users\visar\documents\visual studio 2013\Projects\Simple POS\Simple POS\bin\Debug\Simple POS.exe
+c:\users\visar\documents\visual studio 2013\Projects\Simple POS\Simple POS\bin\Debug\Simple POS.pdb
+c:\users\visar\documents\visual studio 2013\Projects\Simple POS\Simple POS\bin\Debug\Simple POS.xml
+c:\users\visar\documents\visual studio 2013\Projects\Simple POS\Simple POS\obj\Debug\Simple_POS.Form1.resources
+c:\users\visar\documents\visual studio 2013\Projects\Simple POS\Simple POS\obj\Debug\Simple_POS.Resources.resources
+c:\users\visar\documents\visual studio 2013\Projects\Simple POS\Simple POS\obj\Debug\Simple POS.vbproj.GenerateResource.Cache
+c:\users\visar\documents\visual studio 2013\Projects\Simple POS\Simple POS\obj\Debug\Simple POS.exe
+c:\users\visar\documents\visual studio 2013\Projects\Simple POS\Simple POS\obj\Debug\Simple POS.xml
+c:\users\visar\documents\visual studio 2013\Projects\Simple POS\Simple POS\obj\Debug\Simple POS.pdb
