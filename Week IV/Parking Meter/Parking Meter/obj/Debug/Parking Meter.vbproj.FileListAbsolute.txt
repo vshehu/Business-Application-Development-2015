@@ -1,0 +1,10 @@
+c:\users\visar\documents\visual studio 2013\Projects\Parking Meter\Parking Meter\bin\Debug\Parking Meter.exe.config
+c:\users\visar\documents\visual studio 2013\Projects\Parking Meter\Parking Meter\bin\Debug\Parking Meter.exe
+c:\users\visar\documents\visual studio 2013\Projects\Parking Meter\Parking Meter\bin\Debug\Parking Meter.pdb
+c:\users\visar\documents\visual studio 2013\Projects\Parking Meter\Parking Meter\bin\Debug\Parking Meter.xml
+c:\users\visar\documents\visual studio 2013\Projects\Parking Meter\Parking Meter\obj\Debug\Parking_Meter.Form1.resources
+c:\users\visar\documents\visual studio 2013\Projects\Parking Meter\Parking Meter\obj\Debug\Parking_Meter.Resources.resources
+c:\users\visar\documents\visual studio 2013\Projects\Parking Meter\Parking Meter\obj\Debug\Parking Meter.vbproj.GenerateResource.Cache
+c:\users\visar\documents\visual studio 2013\Projects\Parking Meter\Parking Meter\obj\Debug\Parking Meter.exe
+c:\users\visar\documents\visual studio 2013\Projects\Parking Meter\Parking Meter\obj\Debug\Parking Meter.xml
+c:\users\visar\documents\visual studio 2013\Projects\Parking Meter\Parking Meter\obj\Debug\Parking Meter.pdb
