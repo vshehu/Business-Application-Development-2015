@@ -1,0 +1,13 @@
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\bin\Debug\Exercise Project.exe.config
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\bin\Debug\Exercise Project.exe
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\bin\Debug\Exercise Project.pdb
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\bin\Debug\Exercise Project.xml
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise_Project.Form1.resources
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise_Project.frmExpenseReport.resources
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise_Project.frmIncomingTransaction.resources
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise_Project.frmOutgoingTransactions.resources
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise_Project.Resources.resources
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise Project.vbproj.GenerateResource.Cache
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise Project.exe
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise Project.xml
+c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise Project.pdb

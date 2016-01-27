@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ExerciseProject
+</name>
+</assembly>
+<members>
+<member name="M:Exercise_Project.DatabaseHelper.ExecuteNonQuery(System.String@,System.Data.SqlClient.SqlParameter[]@)">
+	<summary>
+ This sub will execute an sql command. It will not return anything. It also accepts an array of parameters to 
+ pass to the sql command
+ </summary>
+	<param name="command"></param>
+	<param name="params"></param>
+	<remarks></remarks>
+</member><member name="M:Exercise_Project.DatabaseHelper.ExecuteScalar(System.String@,System.Data.SqlClient.SqlParameter[]@)">
+	<summary>
+ This function executes a scalar method. It returns an object type which will need to be casted on the client 
+ side
+ </summary>
+	<param name="command"></param>
+	<param name="params"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Exercise_Project.DatabaseHelper.ExecuteReader(System.String@,System.Data.SqlClient.SqlParameter[]@)">
+	<summary>
+ This function returns an sqldatareader. It closes the connection as soon as the reader is disposed
+ </summary>
+	<param name="command"></param>
+	<param name="params"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Exercise_Project.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Exercise_Project.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Exercise_Project.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
