@@ -36,6 +36,22 @@ Public Class frmExpenseReport
 
         grdReport.DataSource = table
 
+        'Calculating totals but only for the given time period
+        sql = "select  transaction_type,  SUM(amount) from  Transactions  WHERE transaction_date between @start and @end GROUP BY transaction_type"
+        params.Clear()
+        params.Add(New SqlParameter("@start", dtFrom.Value))
+        params.Add(New SqlParameter("@end", dtTo.Value))
+        Dim dr As SqlDataReader
+        dr = dh.ExecuteReader(sql, params.ToArray())
+        While dr.Read
+            If (dr("transaction_type").ToString() = "income") Then
+                txtTotalIncome.Text = dr(1).ToString()
+            Else
+                txtTotalExpense.Text = dr(1).ToString()
+            End If
+        End While
+
+        txtBalance.Text = Convert.ToDecimal(txtTotalIncome.Text) - Convert.ToDecimal(txtTotalExpense.Text)
 
     End Sub
 

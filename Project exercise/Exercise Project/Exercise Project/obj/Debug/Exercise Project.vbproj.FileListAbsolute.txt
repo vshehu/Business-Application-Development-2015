@@ -11,3 +11,16 @@ c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise P
 c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise Project.exe
 c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise Project.xml
 c:\users\visar\documents\visual studio 2013\Projects\Exercise Project\Exercise Project\obj\Debug\Exercise Project.pdb
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\bin\Debug\Exercise Project.exe.config
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\obj\Debug\Exercise Project.exe
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\obj\Debug\Exercise Project.xml
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\obj\Debug\Exercise Project.pdb
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\bin\Debug\Exercise Project.exe
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\bin\Debug\Exercise Project.pdb
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\bin\Debug\Exercise Project.xml
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\obj\Debug\Exercise_Project.Form1.resources
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\obj\Debug\Exercise_Project.frmExpenseReport.resources
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\obj\Debug\Exercise_Project.frmIncomingTransaction.resources
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\obj\Debug\Exercise_Project.frmOutgoingTransactions.resources
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\obj\Debug\Exercise_Project.Resources.resources
+C:\Users\Visar\Documents\GitHub\BAD2015\Project exercise\Exercise Project\Exercise Project\obj\Debug\Exercise Project.vbproj.GenerateResource.Cache
